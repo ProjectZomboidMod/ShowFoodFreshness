@@ -1,4 +1,5 @@
 name=Show Food Freshness
 id=ShowFoodFreshness
-description=
-poster=poster.png
+description=Show food freshness by holding ALT
+poster=poster1.png
+poster=poster2.png

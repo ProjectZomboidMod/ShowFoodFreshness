@@ -1,0 +1,7 @@
+Sandbox_EN = {
+    Sandbox_ShowFoodFreshness = "显示食物新鲜度",
+
+    Sandbox_ShowFoodFreshness_CookingLevelToShowProgressBar = "显示进度条需要的烹饪等级",
+
+    Sandbox_ShowFoodFreshness_CookingLevelToShowDays = "显示天数需要的烹饪等级",
+}

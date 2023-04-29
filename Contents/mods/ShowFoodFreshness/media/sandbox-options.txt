@@ -1,0 +1,17 @@
+VERSION = 1,
+
+option ShowFoodFreshness.CookingLevelToShowProgressBar
+{
+    type = integer, default = 1,
+    min = 0, max = 11,
+    page = ShowFoodFreshness,
+    translation = ShowFoodFreshness_CookingLevelToShowProgressBar,
+}
+
+option ShowFoodFreshness.CookingLevelToShowDays
+{
+    type = integer, default = 3,
+    min = 0, max = 11,
+    page = ShowFoodFreshness,
+    translation = ShowFoodFreshness_CookingLevelToShowDays,
+}

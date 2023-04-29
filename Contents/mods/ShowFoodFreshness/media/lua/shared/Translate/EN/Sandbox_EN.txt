@@ -1,0 +1,7 @@
+Sandbox_EN = {
+    Sandbox_ShowFoodFreshness = "Show Food Freshness",
+
+    Sandbox_ShowFoodFreshness_CookingLevelToShowProgressBar = "Cooking Level to Show Progress Bar",
+
+    Sandbox_ShowFoodFreshness_CookingLevelToShowDays = "Cooking Level to Show Days",
+}
